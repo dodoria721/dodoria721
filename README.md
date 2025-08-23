@@ -6,7 +6,7 @@ I know I have a long way to go, but I believe in building a strong foundation fi
 Here's what I'm currently focused on:
 
 + **Data Structures & Algorithms:** I'm dedicated to improving my problem-soving skills.
-+ **Computer Science Fundamentals::** I'm actively building my knowledge of core CS like OS and networking.
++ **Computer Science Fundamentals:** I'm actively building my knowledge of core CS like OS and networking.
 
 ---
 ## 🚀My Goals & What I'm Learning
