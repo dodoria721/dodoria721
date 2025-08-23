@@ -2,6 +2,7 @@
 
 👋 Hi! I am Dowon. I'm a student computer science major, and a beginner developer who is constantly learning and growing.
 
+---
 I know I have a long way to go, but I believe in building a strong foundation first. Here's what I'm currently focused on:
 
 + **Data Structures & Algorithms:** I'm dedicated to improving my problem-soving skills.
