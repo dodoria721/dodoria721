@@ -1,6 +1,5 @@
 ## 🌟About me
-
-### 👋 Hi! I am Dowon. I'm a student computer science major, and a beginner developer who is constantly learning and growing.
+👋 Hi! I am Dowon. I'm a student computer science major, and a beginner developer who is constantly learning and growing.
 
 I know I have a long way to go, but I believe in building a strong foundation first. 
 
