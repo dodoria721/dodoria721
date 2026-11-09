@@ -29,6 +29,7 @@ Backend 개발을 담당하며 **외부 API 연동, 데이터 처리, 서비스 
 `TypeScript` `Next.js` `Supabase` `OpenAI API`
 
 🏆 **부울경 AI 융합 해커톤 최우수상**
+🏆 **동아대학교 DevDay 우수상**
 
 🔗 [Repository](https://github.com/dodoria721/BUG_AI_Hackerton)  
 🔗 [Live Demo](https://bug-ai-hackerton.vercel.app/)
